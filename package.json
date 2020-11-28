@@ -1,0 +1,20 @@
+{
+  "name": "is350lab2",
+  "version": "14.15.0",
+  "description": "Simple NOdeJS\u001b[D\u001b[D\u001b[D\u001b[o\u001b[C\u001b[C\u001b[C\u001b[C\u001b[CWeb App",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mckennaveeser/IndividualAssign2.git"
+  },
+  "author": "Mckenna Veeser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mckennaveeser/IndividualAssign2/issues"
+  },
+  "homepage": "https://github.com/mckennaveeser/IndividualAssign2#readme"
+}
