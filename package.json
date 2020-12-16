@@ -1,0 +1,19 @@
+{
+  "name": "is350lab2",
+  "version": "14.15.0",
+  "description": "final project",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mckennaveeser/IndividualAssign2.git"
+  },
+  "author": "Mckenna Veeser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mckennaveeser/IndividualAssign2/issues"
+  },
+  "homepage": "https://github.com/mckennaveeser/IndividualAssign2#readme"
+}
